@@ -8,6 +8,7 @@ import net.minecraft.world.IBlockReader;
 
 import javax.annotation.Nullable;
 //pitisimo
+
 public class ModDickBlock extends Block {
 
     public ModDickBlock(Properties properties) {
